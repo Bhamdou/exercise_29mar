@@ -1,0 +1,1 @@
+This program demonstrates a simple task manager, where users can add, remove, and view tasks, as well as toggle their completion status. It showcases object-oriented programming and basic user interaction.
